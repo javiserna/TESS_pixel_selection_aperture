@@ -1,0 +1,11 @@
+astropy
+astroquery==0.4.6
+pandas
+pyastronomy
+photutils
+matplotlib
+plotly
+streamlit
+streamlit-lottie
+streamlit-option-menu
+streamlit-extras
